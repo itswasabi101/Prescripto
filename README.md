@@ -6,7 +6,7 @@ The project also includes a dashboard for doctors to manage their schedules , vi
 
 ## Demo
 
-[![Demo](prescripto.jpg)]([https://itswasabi101.github.io/TextToSpeech/](https://prescripto-alpha.vercel.app/))
+[![Demo](prescripto.jpg)]([https://prescripto-alpha.vercel.app/])
 
 Click the image above to see a live demo of the project.
 
